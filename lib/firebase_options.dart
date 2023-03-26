@@ -51,12 +51,4 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCmkr2QxpPHpbqzdfvPI5LGeFCvovFLhrw',
-    appId: '1:764571231829:android:33cbe756e43fe85199d6dc',
-    messagingSenderId: '764571231829',
-    projectId: 'live-app-27fa1',
-    storageBucket: 'live-app-27fa1.appspot.com',
-  );
 }
